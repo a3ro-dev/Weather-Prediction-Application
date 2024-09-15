@@ -22,8 +22,8 @@ This repository contains a weather prediction application built using Streamlit.
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/weather-prediction-app.git
-    cd weather-prediction-app
+    git clone https://github.com/a3ro-dev/Weather-Prediction-Application
+    cd weather-prediction-application
     ```
 
 2. Create and activate a virtual environment:
