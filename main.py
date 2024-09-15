@@ -43,7 +43,7 @@ st.set_page_config(page_title="Weather Prediction", page_icon="🌤️", layout=
 
 # Title and Subtitle
 st.markdown("<h1 style='text-align: center;'>Weather Prediction Application 🌦️</h1>", unsafe_allow_html=True)
-st.markdown("<h3 style='text-align: center;'>A sleek and intuitive UI to predict weather based on past trends</h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>A sleek and intuitive WebApp to predict weather based on past trends</h3>", unsafe_allow_html=True)
 
 # Glassy container for input
 st.markdown("""
